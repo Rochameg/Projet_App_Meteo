@@ -1,5 +1,11 @@
 # projet_app_meteo
 
+MEMBRE DU GROUPE :
+
+            1 - Megui Rocha NZIENGUI
+            2 - Mama Diarra NDIAYE
+            3 - Mulho MABIALA TRESOR IBRAHIM
+
 A new Flutter project.
 
 ## Getting Started
