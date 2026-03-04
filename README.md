@@ -1,10 +1,16 @@
 # projet_app_meteo
 
+<<<<<<< HEAD
 MEMBRE DU GROUPE :
 
             1 - Megui Rocha NZIENGUI
             2 - Mama Diarra NDIAYE
             3 - Mulho MABIALA TRESOR IBRAHIM
+=======
+        1 - Megui Rocha NZIENGUI
+        2 - Mama Diarra NDIAYE
+        3 - Mulho MABIALA TRESOR IBRAHIM
+>>>>>>> 2e13fbc34515420f94c7a88060ba6a3ed37b05c1
 
 A new Flutter project.
 
